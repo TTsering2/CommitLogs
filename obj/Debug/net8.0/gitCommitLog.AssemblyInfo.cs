@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gitCommitLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e90b38dbf9bee4413c9848f29c6f20bd950e2c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eab6fa630df7e9b304b6a525541842e79e38c879")]
 [assembly: System.Reflection.AssemblyProductAttribute("gitCommitLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gitCommitLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
